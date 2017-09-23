@@ -1,0 +1,8 @@
+// INSTRUCTION:
+// re-write stack.cpp to use a vector. (vstack.h)
+// you don't have top any more but el.size()-1 is the same as top
+// isFull always returns false 
+// Make sure the comments have been updated!!!
+// UNIX Hint:  
+// To copy the old stack.cpp from the parent directory here, 
+//  cp ../stack.cpp vstack.cpp

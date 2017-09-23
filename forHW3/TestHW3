@@ -1,0 +1,44 @@
+Script started on Wed 26 Oct 2016 02:44:55 PM PDT
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ g++ slisttest.cpp llist.cpp slist.cpp
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ ./a.out
+Calling llist constructor.
+[ 1 2 3 4 5 6 7 8 9 10 ]
+[ empty ]
+[ 10 9 8 7 6 5 4 3 2 1 ]
+[ empty ]
+[ 1 2 3 4 5 6 7 8 9 10 ]
+deleteIth test:
+[ 2 3 4 5 6 7 8 9 10 ]
+[ 2 3 4 5 6 7 8 9 ]
+[ 2 3 5 6 7 8 9 ]
+addbeforeIth test:
+[ 0 2 3 5 6 7 8 9 ]
+[ 0 2 3 5 6 7 8 9 0 ]
+[ 0 2 0 3 5 6 7 8 9 0 ]
+search test:
+1 found in postition:0
+2 found in postition:2
+3 found in postition:4
+4 found in postition:0
+5 found in postition:5
+6 found in postition:6
+7 found in postition:7
+8 found in postition:8
+9 found in postition:9
+10 found in postition:0
+replace test:
+[ 10 10 10 10 10 10 10 10 10 10 ]
+Calling llist constructor.
+L2:[ 10 10 10 10 10 10 10 10 10 10 ]
+Calling llist constructor.
+Calling llist constructor.
+Calling llist destructor.
+Calling llist destructor.
+L2:[ 10 10 10 10 10 10 10 10 10 10 ]
+L:[ 10 10 10 10 10 10 10 10 10 10 20 ]
+Calling llist destructor.
+Calling llist destructor.
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ exit
+exit
+
+Script done on Wed 26 Oct 2016 02:45:20 PM PDT

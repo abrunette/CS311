@@ -1,0 +1,25 @@
+Script started on Sun 16 Oct 2016 05:26:07 PM PDT
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ g++ HW3P2client.cpp slist.cpp llist.cpp
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ ,[K./a.out
+Calling llist destructor.
+1
+2
+3
+[ 4 6 7 8 ]
+4
+The value 6 was found at position 2.
+5
+6
+The value 8 was found at position 4.
+7
+8
+[ 4 0 7 2 ]
+9
+The value 5 was not found in the list.
+10
+ERROR: Bad position was given
+Calling llist destructor.
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ exit
+exit
+
+Script done on Sun 16 Oct 2016 05:26:37 PM PDT

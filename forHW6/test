@@ -1,0 +1,223 @@
+Script started on Mon 21 Nov 2016 09:03:43 PM PST
+]0;brune010@empress:~/cs311/HWPrograms/forHW6[brune010@empress forHW6]$ g++ dgraph.cpp hw3p3.o hw6Client.cpp llist.o
+]0;brune010@empress:~/cs311/HWPrograms/forHW6[brune010@empress forHW6]$ ./a.out
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+....in the llist constructor
+Vertex: A
+Out Degree: 2
+Displaying all adjacent values:
+[B F ]
+Vertex: B
+Out Degree: 2
+Displaying all adjacent values:
+[C G ]
+Vertex: C
+Out Degree: 1
+Displaying all adjacent values:
+[H ]
+Vertex: D
+Out Degree: 0
+Displaying all adjacent values:
+[empty]
+Vertex: E
+Out Degree: 0
+Displaying all adjacent values:
+[empty]
+Vertex: F
+Out Degree: 2
+Displaying all adjacent values:
+[I E ]
+Vertex: G
+Out Degree: 0
+Displaying all adjacent values:
+[empty]
+Vertex: H
+Out Degree: 2
+Displaying all adjacent values:
+[G I ]
+Vertex: I
+Out Degree: 3
+Displaying all adjacent values:
+[A G E ]
+
+Please enter the vertex out degree you wish to search for: A
+
+The Out Degree of vertex A is 2
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex out degree you wish to search for: B
+
+The Out Degree of vertex B is 2
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex out degree you wish to search for: C
+
+The Out Degree of vertex C is 1
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex out degree you wish to search for: D
+
+The Out Degree of vertex D is 0
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex out degree you wish to search for: E
+
+The Out Degree of vertex E is 0
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex out degree you wish to search for: F
+
+The Out Degree of vertex F is 2
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex out degree you wish to search for: 1 G
+
+The Out Degree of vertex G is 0
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex out degree you wish to search for: H
+
+The Out Degree of vertex H is 2
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex out degree you wish to search for: I
+
+The Out Degree of vertex I is 3
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex out degree you wish to search for: J
+
+ERROR: The vertex you searched for does not exist in the graph!
+If you want to continue, please enter 1.
+0
+
+Please enter the vertex ajacencies you wish to search for: A
+
+....in the llist constructor
+....in the llist destructor
+[B F ]
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex ajacencies you wish to search for: B
+
+....in the llist constructor
+....in the llist destructor
+[C G ]
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex ajacencies you wish to search for: C
+
+....in the llist constructor
+....in the llist destructor
+[H ]
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex ajacencies you wish to search for: D
+
+....in the llist constructor
+....in the llist destructor
+[empty]
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex ajacencies you wish to search for: E
+
+....in the llist constructor
+....in the llist destructor
+[empty]
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex ajacencies you wish to search for: F
+
+....in the llist constructor
+....in the llist destructor
+[I E ]
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex ajacencies you wish to search for: G
+
+....in the llist constructor
+....in the llist destructor
+[empty]
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex ajacencies you wish to search for: HH 
+
+....in the llist constructor
+....in the llist destructor
+[G I ]
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex ajacencies you wish to search for: I
+
+....in the llist constructor
+....in the llist destructor
+[A G E ]
+If you want to continue, please enter 1.
+1
+
+Please enter the vertex ajacencies you wish to search for: J
+
+ERROR: The vertex you searched for does not exist in the graph!
+If you want to continue, please enter 1.
+0
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+....in the llist destructor
+]0;brune010@empress:~/cs311/HWPrograms/forHW6[brune010@empress forHW6]$ exit
+exit
+
+Script done on Mon 21 Nov 2016 09:06:53 PM PST

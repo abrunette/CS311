@@ -1,0 +1,18 @@
+Week 1
+  1. read stack.h and queue.h  - study the comments and complete them
+  2. read stack.cpp and queue.cpp - study the comments and complete them
+
+Week 2
+  3. complete stack.h
+  4. complete stack.cpp
+  5. compile stack.cpp and make sure no syntax errors
+  6. compile with my stacktest.cpp and make sure no runtime errors
+  7. complete client1.cpp after running hw1stackDemo.out
+  8. compile with client1.cpp and make sure no runtime errors
+
+Week 3
+  3. complete queue.h
+  4. complete queue.cpp
+  5. compile queue.cpp and make sure no syntax errors
+  6. compile with my queuetest.cpp and make sure no runtime errors
+  7. complete client2.cpp after running hw1queueDemo.out

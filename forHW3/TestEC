@@ -1,0 +1,38 @@
+Script started on Mon 24 Oct 2016 07:51:04 PM PDT
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ g++ hw3ec.cpp slist.cpp llist.cpp
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ ./a.out
+
+
+Starting program...
+Calling llist constructor.
+Calling llist constructor.
+Test 1. L1 is empty, L2 is empty.
+True, the two lists are the same.
+
+Test 2. L1 is empty, L2 has 2 elements.
+False, the two lists are not the same.
+
+Test 3. L1 has 2 elements, L2 is empty.
+False, the two lists are not the same.
+
+Test 4. L1 has 1,2,3. L2 has 1,2,3.
+True, the two lists are the same.
+
+Test 5. L1 has 1,2,3. L2 has 1,2.
+False, the two lists are not the same.
+
+Test 6. L1 has 1,2,3. L2 has 1,2,3,4.
+False, the two lists are not the same.
+
+Test 7. L1 has 1,2,3. L2 has 1,2,4.
+False, the two lists are not the same.
+
+
+End of program...
+
+Calling llist destructor.
+Calling llist destructor.
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ exit
+exit
+
+Script done on Mon 24 Oct 2016 07:51:19 PM PDT

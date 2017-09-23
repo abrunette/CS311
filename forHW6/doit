@@ -1,0 +1,1 @@
+g++ dgraph.cpp hw3p3.o hw6Client.cpp llist.o

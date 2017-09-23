@@ -1,0 +1,28 @@
+
+INSTRUCTION:
+
+Must add two functions to dgraph.h and dgraph.cpp
+
+- void visit(int, char) 
+ which will enter the given visit number for a given vertex.
+ This is to indicate the order in which vertices were visited.
+ Do not use a loop to look for the vertex.
+ Convert A to slot 0, B to slot 1 etc.
+
+- bool isMarked(char) 
+  which returns true if a given vertex was already visited
+  (0 means not visited)
+  Do not use a loop to look for a vertex
+
+Make sure displayGraph now displays the visit numbers as well.
+
+Create hw7client.cpp that performs DFS of a dgraph.
+You will need all the HW6 files plus the stack class files.
+The stack elements will be char this time.
+
+Make sure you added very good comments!!!!
+
+Check your output against my hw7.out.
+
+
+

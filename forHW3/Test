@@ -1,0 +1,112 @@
+Script started on Fri 14 Oct 2016 09:19:00 PM PDT
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ g++ HW3P1client.cpp llist.cpp
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ ./a.out
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>1
+CASE 1:------------------- 
+1
+The list is empty.
+2
+[ empty ]
+3
+4
+[ 1 2 3 4 ]
+5
+1 2 
+6
+[ 3 4 ]
+7
+The list is not empty.
+8
+4 3 
+9
+The list is empty.
+Calling llist destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>2
+Case 2: -----------------------
+1
+2
+3
+4
+5
+[ 5 6 8 9 ]6
+7
+8
+9
+Out of range. Tried to add to an invalid spot in the list. Try a lower position.
+10
+Out of range. Tried to add to an invalid spot in the list. Try a higher position.
+11
+[ 4 5 6 8 7 9 10 ]
+12
+The value 4 was removed from position 1.
+13
+The value 10 was removed from position 6.
+14
+The value 7 was removed from position 1.
+15
+Out of range. Tried to add to an invalid spot in the list. Try a lower position.
+16
+Out of range. Tried to add to an invalid spot in the list. Try a higher position.
+17
+[ 5 6 8 9 ]
+18
+19
+[ empty ]
+Calling llist destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>3
+Case 3:-------------------- 
+1
+Out of range. Tried to add to an invalid spot in the list. Try a higher position.
+2
+Underflow. Tried to delete an object that does not exist.Calling llist destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>4
+Case 4:------------------------ 
+1
+Out of range. Tried to add to an invalid spot in the list. Try a lower position.
+2
+Underflow. Tried to delete an object that does not exist.Calling llist destructor.
+
+MENU: These are your options: 
+
+   (1) Case 1  
+   (2) Case 2  
+   (3) Case 3  
+   (4) Case 4 
+    Enter ( 0 ) to quit 
+===>0
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ exit
+exit
+
+Script done on Fri 14 Oct 2016 09:19:57 PM PDT

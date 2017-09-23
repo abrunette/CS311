@@ -1,0 +1,38 @@
+Script started on Mon 24 Oct 2016 03:16:16 PM PDT
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ g++ HW3P3client.cpp slist.cpp llist.cpp
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ ./a.out
+Calling llist constructor.
+Calling llist constructor.
+1
+2
+Calling llist constructor.
+in copy test
+[ 1 2 3 4 5 6 ]
+finished
+Calling llist destructor.
+-- After copytest --- 
+3
+[ 1 2 3 4 5 ]
+-- Testing operator overloading ---
+4
+5
+[ 1 2 3 4 5 ]
+6
+7
+[ 7 8 9 10 ]
+8
+9
+[ 1 2 3 4 5 ]
+10
+11
+[ 1 2 3 4 ]
+12
+[ 1 2 3 4 ]
+13
+[ 1 2 3 4 5 ]
+Calling llist destructor.
+Calling llist destructor.
+]0;brune010@empress:~/cs311/HWPrograms/forHW3[brune010@empress forHW3]$ exit
+exit
+
+Script done on Mon 24 Oct 2016 03:16:40 PM PDT

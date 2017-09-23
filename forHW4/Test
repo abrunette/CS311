@@ -1,0 +1,180 @@
+Script started on Mon 31 Oct 2016 11:27:15 AM PDT
+]0;brune010@empress:~/cs311/HWPrograms/forHW4[brune010@empress forHW4]$ g++ binstree.cpp hw4Client.C
+]0;brune010@empress:~/cs311/HWPrograms/forHW4[brune010@empress forHW4]$ ./a.out
+===  Starting a new tree with many nodes ====
+Trying to insert 1
+...adding 1 as the root
+Trying to insert 3
+...going to the right
+...adding 3 as the right child of 1
+Trying to insert 5
+...going to the right
+...going to the right
+...adding 5 as the right child of 3
+Trying to insert 7
+...going to the right
+...going to the right
+...going to the right
+...adding 7 as the right child of 5
+Trying to insert 9
+...going to the right
+...going to the right
+...going to the right
+...going to the right
+...adding 9 as the right child of 7
+Trying to insert 10
+...going to the right
+...going to the right
+...going to the right
+...going to the right
+...going to the right
+...adding 10 as the right child of 9
+Trying to insert 8
+...going to the right
+...going to the right
+...going to the right
+...going to the right
+...going to the left
+...adding 8 as the left child of 9
+Trying to insert 6
+...going to the right
+...going to the right
+...going to the right
+...going to the left
+...adding 6 as the left child of 7
+Trying to insert 4
+...going to the right
+...going to the right
+...going to the left
+...adding 4 as the left child of 5
+Trying to insert 2
+...going to the right
+...going to the left
+...adding 2 as the left child of 3
+Elements in the IN order: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Elements in the PRE order:
+1
+3
+2
+5
+4
+7
+6
+9
+8
+10
+===  Starting a new tree with 3 nodes ====
+Trying to insert 1
+...adding 1 as the root
+Trying to insert 2
+...going to the right
+...adding 2 as the right child of 1
+Trying to insert 3
+...going to the right
+...going to the right
+...adding 3 as the right child of 2
+Trying to delete 7
+...going to the right
+...going to the right
+...going to the right
+Did not find the key in the tree.
+Trying to delete 1
+Elements in the IN order: 
+2
+3
+===  Starting another tree with 3 nodes ====
+Trying to insert 10
+...adding 10 as the root
+Trying to insert 9
+...going to the left
+...adding 9 as the left child of 10
+Trying to insert 8
+...going to the left
+...going to the left
+...adding 8 as the left child of 9
+Trying to delete 7
+...going to the left
+...going to the left
+...going to the left
+Did not find the key in the tree.
+Trying to delete 10
+Elements in the IN order: 
+8
+9
+===  Starting a new tree with 7 nodes ====
+Trying to insert 3
+...adding 3 as the root
+Trying to insert 1
+...going to the left
+...adding 1 as the left child of 3
+Trying to insert 2
+...going to the left
+...going to the right
+...adding 2 as the right child of 1
+Trying to insert 0
+...going to the left
+...going to the left
+...adding 0 as the left child of 1
+Trying to insert 5
+...going to the right
+...adding 5 as the right child of 3
+Trying to insert 6
+...going to the right
+...going to the right
+...adding 6 as the right child of 5
+Trying to insert 4
+...going to the right
+...going to the left
+...adding 4 as the left child of 5
+Trying to insert 4
+...going to the right
+...going to the left
+...error: the element already exists
+Elements in the IN order: 
+0
+1
+2
+3
+4
+5
+6
+then delete some nodes ..
+Trying to delete 6
+...going to the right
+...going to the right
+...removing 6
+.. removing a leaf
+Trying to delete 5
+...going to the right
+...removing 5
+removing a vertex with just the left child
+Trying to delete 3
+...removing 3
+...removing an internal vertex with children
+.....find the MAX of its left sub-tree
+.....Max is 2
+.. removing a leaf
+.....replacing 3 with 2
+Trying to delete 7
+...going to the right
+...going to the right
+Did not find the key in the tree.
+Elements in the IN order: 
+0
+1
+2
+4
+]0;brune010@empress:~/cs311/HWPrograms/forHW4[brune010@empress forHW4]$ exit
+exit
+
+Script done on Mon 31 Oct 2016 11:27:33 AM PDT

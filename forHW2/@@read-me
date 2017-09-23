@@ -1,0 +1,13 @@
+
+All you need is one client file with the required function AND main.
+
+Create
+  binsearch.cpp
+  combine.cpp
+
+Do not forget the required comments.
+
+Do not create header and implementation files.
+
+My Demo for combine works only for 3 element lists.
+Yours should work for any lengths.

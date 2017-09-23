@@ -1,0 +1,97 @@
+
+Check your EC output against this
+
+
+
+Elements in the IN order: 
+1
+3
+5
+7
+9
+Elements in the POST order with heights and balance factors: 
+Elem: 9 Height: 0 Balance: 0
+Elem: 7 Height: 1 Balance: 1
+Elem: 5 Height: 2 Balance: 2
+Elem: 3 Height: 3 Balance: 3
+Elem: 1 Height: 4 Balance: 4
+
+Elements in the IN order: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Elements in the POST order with heights and balance factors: 
+Elem: 2 Height: 0 Balance: 0
+Elem: 4 Height: 0 Balance: 0
+Elem: 6 Height: 0 Balance: 0
+Elem: 8 Height: 0 Balance: 0
+Elem: 10 Height: 0 Balance: 0
+Elem: 9 Height: 1 Balance: 0
+Elem: 7 Height: 2 Balance: 1
+Elem: 5 Height: 3 Balance: 2
+Elem: 3 Height: 4 Balance: 3
+Elem: 1 Height: 5 Balance: 5
+
+Elements in the PRE order:
+1
+3
+2
+5
+4
+7
+6
+9
+8
+10
+
+
+Elements in the IN order: 
+2
+3
+Elements in the POST order with heights and balance factors: 
+Elem: 3 Height: 0 Balance: 0
+Elem: 2 Height: 1 Balance: 1
+
+
+Elements in the IN order: 
+8
+9
+Elements in the POST order with heights and balance factors: 
+Elem: 8 Height: 0 Balance: 0
+Elem: 9 Height: 1 Balance: -1
+
+Elements in the IN order: 
+0
+1
+2
+3
+4
+5
+6
+Elements in the POST order with heights and balance factors: 
+Elem: 0 Height: 0 Balance: 0
+Elem: 2 Height: 0 Balance: 0
+Elem: 1 Height: 1 Balance: 0
+Elem: 4 Height: 0 Balance: 0
+Elem: 6 Height: 0 Balance: 0
+Elem: 5 Height: 1 Balance: 0
+Elem: 3 Height: 2 Balance: 0
+
+Elements in the IN order: 
+0
+1
+2
+4
+Elements in the POST order with heights and balance factors: 
+Elem: 0 Height: 0 Balance: 0
+Elem: 1 Height: 1 Balance: -1
+Elem: 4 Height: 0 Balance: 0
+Elem: 2 Height: 2 Balance: -1
+

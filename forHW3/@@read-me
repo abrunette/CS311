@@ -1,0 +1,11 @@
+
+1. complete llist.h and llist.cpp files
+2. complete and test with HW3P1client.cpp
+
+-- try overloadtest1 and overloadtest2 before proceeding
+
+3. complete slist.h and slist.cpp using slistHW3P2 
+4. complete and test with HW3P2client.cpp
+
+5. modify slist.h and slist.cpp using slistHW3P3 
+6. complete and test with HW3P3client.cpp

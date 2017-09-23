@@ -1,0 +1,49 @@
+Script started on Sat 24 Sep 2016 07:47:14 PM PDT
+]0;brune010@empress:~/cs311/HWPrograms/forHW2[brune010@empress forHW2]$ g++ Binsearch.cpp
+]0;brune010@empress:~/cs311/HWPrograms/forHW2[brune010@empress forHW2]$ ,[K./a.out
+Please enter the number you want to search for: 
+1
+The number was found at position 1.
+
+Enter 0 if you want to quit searching: 1
+
+Please enter the number you want to search for: 
+19
+The number was found at position 10.
+
+Enter 0 if you want to quit searching: 1
+
+Please enter the number you want to search for: 
+5
+The number was found at position 3.
+
+Enter 0 if you want to quit searching: 1
+
+Please enter the number you want to search for: 
+17
+The number was found at position 9.
+
+Enter 0 if you want to quit searching: 1
+
+Please enter the number you want to search for: 
+21
+The number was not found in the array.
+
+Enter 0 if you want to quit searching: 1
+
+Please enter the number you want to search for: 
+0
+The number was not found in the array.
+
+Enter 0 if you want to quit searching: 1
+
+Please enter the number you want to search for: 
+6
+The number was not found in the array.
+
+Enter 0 if you want to quit searching: 0
+
+]0;brune010@empress:~/cs311/HWPrograms/forHW2[brune010@empress forHW2]$ exit
+exit
+
+Script done on Sat 24 Sep 2016 07:48:17 PM PDT

@@ -1,0 +1,1 @@
+g++ HW3P3client.cpp slist.cpp llist.cpp

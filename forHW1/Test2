@@ -1,0 +1,39 @@
+Script started on Fri 16 Sep 2016 08:52:05 PM PDT
+]0;brune010@empress:~/cs311/HWPrograms/forHW1[brune010@empress forHW1]$ g++ client2.cpp queue.cpp
+]0;brune010@empress:~/cs311/HWPrograms/forHW1[brune010@empress forHW1]$ ./a.out
+This program runs an infinite loop, input 1 to start: 1
+
+A
+B
+C
+AA
+AB
+AC
+BA
+BB
+BC
+CA
+CB
+CC
+AAA
+AAB
+AAC
+ABA
+ABB
+ABC
+ACA
+ACB
+ACC
+BAA
+BAB
+BAC
+BBA
+BBB
+BBC
+BCA
+BCB
+Error: Overflow, Queue is full.
+]0;brune010@empress:~/cs311/HWPrograms/forHW1[brune010@empress forHW1]$ exit
+exit
+
+Script done on Fri 16 Sep 2016 08:52:44 PM PDT
